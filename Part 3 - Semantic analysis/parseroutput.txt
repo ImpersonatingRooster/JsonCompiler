@@ -1,0 +1,25 @@
+{
+	name
+	:
+	jim bob
+,
+	age
+	:
+	22
+,
+	height
+	:
+	6.2
+,
+	criminal
+	:
+	false
+,
+	father
+	:
+	true
+,
+	income
+	:
+	NULL
+}

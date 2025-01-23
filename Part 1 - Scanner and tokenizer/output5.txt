@@ -1,0 +1,8 @@
+<lbrace, {>
+<str, "name">
+<col, :>
+<str, "jim bob">
+<com, ,>
+<str, "age">
+<col, :>
+<int, 22>

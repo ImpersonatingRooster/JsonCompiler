@@ -1,0 +1,4 @@
+﻿Reflection:
+
+
+Overall, this wasn’t too bad, I don’t think. There is still a lot of confusion throughout the class as to what exactly this project part 1 is asking us to do. When they say code a DFA, do they mean code a DFA that checks the entire string before even going into tokenization? From what I gathered, a DFA in this case is implicit in the tokenization process, so I didn’t code an explicit DFA that runs through the string first. It seems redundant to do, since my tokenizer is already checking for valid strings, which is by definition what a DFA does. I am not a fan of the fact that my first actual project in python was this, because it is a complicated task, but it was a good learning experience. I look forward the the feedback so I can improve this project part. Even though I didn’t explicitly code a DFA class, I still used my knowledge of formal languages to sort the the string and determine tokens, as well as if the string is valid.

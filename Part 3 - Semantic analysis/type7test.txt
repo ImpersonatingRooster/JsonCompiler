@@ -1,0 +1,9 @@
+<lbrack, [>
+<str, "name">
+<com, ,>
+<str, "jimmy">
+<com, ,>
+<str, "age">
+<com, ,>
+<str, "false">
+<rbrack, ]>
