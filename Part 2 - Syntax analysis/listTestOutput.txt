@@ -1,0 +1,14 @@
+list
+	[
+	value
+		STRING: name
+	,
+	value
+		STRING: jimmy
+	,
+	value
+		STRING: age
+	,
+	value
+		NUMBER: 25
+	]

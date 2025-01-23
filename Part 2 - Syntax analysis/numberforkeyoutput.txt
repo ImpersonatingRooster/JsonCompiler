@@ -1,0 +1,39 @@
+dict
+	{
+	pair
+		STRING: 22
+		:
+		value
+			STRING: jim bob
+	,
+	pair
+		STRING: age
+		:
+		value
+			NUMBER: 22
+	,
+	pair
+		STRING: height
+		:
+		value
+			NUMBER: 6.2
+	,
+	pair
+		STRING: criminal
+		:
+		value
+			BOOL: false
+	,
+	pair
+		STRING: father
+		:
+		value
+			BOOL: true
+	,
+	pair
+		STRING: income
+		:
+		value
+			NULL
+	}
+Expected token 'String value' got '22'  at line 2 in input file

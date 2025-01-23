@@ -1,0 +1,11 @@
+<lbrace, {>
+<str, "please work">
+<col, :>
+<lbrack, [>
+<str, "prayge">
+<com, ,>
+<str, "hi marker">
+<com, ,>
+<int, 100>
+<rbrack, ]>
+<rbrace, }>

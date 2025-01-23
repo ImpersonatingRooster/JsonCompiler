@@ -1,0 +1,25 @@
+<lbrace, {>
+<int, 22>
+<col, :>
+<str, "jim bob">
+<com, ,>
+<str, "age">
+<col, :>
+<int, 22>
+<com, ,>
+<str, "height">
+<col, :>
+<float, 6.2>
+<com, ,>
+<str, "criminal">
+<col, :>
+<bool, false>
+<com, ,>
+<str, "father">
+<col, :>
+<bool, true>
+<com, ,>
+<str, "income">
+<col, :>
+<null, null>
+<rbrace, }>

@@ -1,0 +1,53 @@
+list
+	[
+	value
+		STRING: test
+	,
+	value
+		NUMBER: 64
+	,
+	value
+		BOOL: true
+	,
+	value
+		NULL
+	,
+	value
+		BOOL: false
+	,
+	value
+		dict
+			{
+			pair
+				STRING: name
+				:
+				value
+				STRING: jim
+			,
+			pair
+				STRING: species
+				:
+				value
+				STRING: dog
+			,
+			pair
+				STRING: age
+				:
+				value
+					NUMBER: 3
+			}
+	,
+			value
+				NUMBER: 68
+	,
+			value
+				BOOL: true
+	,
+			value
+				NULL
+	,
+			value
+				BOOL: false
+	]
+Expected token '}' got '['  at line 24 in input file
+Expected token ',' got '"test2"'  at line 25 in input file

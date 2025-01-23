@@ -1,0 +1,42 @@
+list
+	[
+	value
+		STRING: test
+	,
+	value
+		STRING: test2
+	,
+	value
+		NUMBER: 64
+	,
+	value
+		BOOL: true
+	,
+	value
+		NULL
+	,
+	value
+		BOOL: false
+	,
+	value
+		dict
+			{
+			pair
+				STRING: name
+				:
+				value
+					STRING: jim
+			,
+			pair
+				STRING: species
+				:
+				value
+					STRING: dog
+			,
+			pair
+				STRING: age
+				:
+				value
+					NUMBER: 3
+			}
+	]

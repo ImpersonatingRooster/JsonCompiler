@@ -1,0 +1,18 @@
+dict
+	{
+	pair
+		STRING: please work
+		:
+		value
+			list
+				[
+				value
+					STRING: prayge
+				,
+				value
+					STRING: hi marker
+				,
+				value
+					NUMBER: 100
+				]
+	}
